@@ -1,4 +1,4 @@
-## Flix Part 2
+## Flixter Part 2
 
 ### User Stories
 
@@ -32,7 +32,7 @@ We'll also explore tab bars, another type of navigation, and try our hand with c
 
 ---
 
-## Flix Part 1
+## Flixter Part 1
 
 ### User Stories
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
